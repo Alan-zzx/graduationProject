@@ -1,3 +1,7 @@
+源码部分以及相关资料中的压缩包已加密
+
+Tomcat安装包内的文件，直接扔在Tomcat目录下的webapps文件夹下即可。
+
 Grandle
 	构建命令：gradle eclipse -Pcore=develop
 
