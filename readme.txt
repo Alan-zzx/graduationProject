@@ -1,18 +1,18 @@
-Ô´Âë²¿·ÖÒÔ¼°Ïà¹Ø×ÊÁÏÖĞµÄÑ¹Ëõ°üÒÑ¼ÓÃÜ
+æºç éƒ¨åˆ†ä»¥åŠç›¸å…³èµ„æ–™ä¸­çš„å‹ç¼©åŒ…å·²åŠ å¯†ã€‚
 
-Tomcat°²×°°üÄÚµÄÎÄ¼ş£¬Ö±½ÓÈÓÔÚTomcatÄ¿Â¼ÏÂµÄwebappsÎÄ¼ş¼ĞÏÂ¼´¿É¡£
+Tomcatå®‰è£…åŒ…å†…çš„æ–‡ä»¶ï¼Œç›´æ¥æ‰”åœ¨Tomcatç›®å½•ä¸‹çš„webappsæ–‡ä»¶å¤¹ä¸‹å³å¯ã€‚
 
 Grandle
-	¹¹½¨ÃüÁî£ºgradle eclipse -Pcore=develop
+	æ„å»ºå‘½ä»¤ï¼šgradle eclipse -Pcore=develop
 
 Vue
-	¹¹½¨ÃüÁî£ºnpm install£¬
-	ÔËĞĞÃüÁî£ºnpm run dev£¬
-	´ò°üÃüÁî£ºnpm run build
+	æ„å»ºå‘½ä»¤ï¼šnpm installï¼Œ
+	è¿è¡Œå‘½ä»¤ï¼šnpm run devï¼Œ
+	æ‰“åŒ…å‘½ä»¤ï¼šnpm run build
 
-¿ª·¢¹¤¾ß£ºEclipse,Visual Studio Code
-¿ª·¢»·¾³£ºJDK 1.7.0_67,Node.js,MySQL
-¿ª·¢¿ò¼Ü£ºSpring Boot,Vue,Element UI,mybatis,springMVC,Spring Security,Druid
-¹¹½¨¹¤¾ß£ºGrandle
-·şÎñÆ÷£ºTomcat
-ä¯ÀÀÆ÷£ºGoogle Chrome
+å¼€å‘å·¥å…·ï¼šEclipse,Visual Studio Code
+å¼€å‘ç¯å¢ƒï¼šJDK 1.7.0_67,Node.js,MySQL
+å¼€å‘æ¡†æ¶ï¼šSpring Boot,Vue,Element UI,mybatis,springMVC,Spring Security,Druid
+æ„å»ºå·¥å…·ï¼šGrandle
+æœåŠ¡å™¨ï¼šTomcat
+æµè§ˆå™¨ï¼šGoogle Chrome
